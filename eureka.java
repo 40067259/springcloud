@@ -1,1 +1,2 @@
 Write codes here
+@EnableEurekaClient
